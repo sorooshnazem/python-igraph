@@ -1,6 +1,6 @@
 title                : python igraph
-description          : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
+description          : In this course, we are going to introduce python-igraph that is packages for network analysis. igraph provides a huge amount of facilities for those who want to do any analysis on networks, from elementary aspects to advanced ones like shortest path, community detection and clustering, network traffic analysis and so forth. 
 university           : DataCamp
 difficulty_level     : 2
-time_needed          : 1 hour
+time_needed          : 4 hour
 programming_language : python

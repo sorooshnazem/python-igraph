@@ -1,5 +1,5 @@
 ---
-title       : Insert the chapter title here
+title       : Generating Graphs in igraph
 description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
@@ -33,6 +33,7 @@ Have a look at the plot. Do you see a trend in the dots?
 
 import pandas as pd
 import matplotlib.pyplot as plt
+import igraph as ig
 
 movies = pd.read_csv("http://s3.amazonaws.com/assets.datacamp.com/course/introduction_to_r/movies.csv")
 
